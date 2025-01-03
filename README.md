@@ -11,3 +11,19 @@ A Chip 8 Emulator written in rust.
 I followed this [guide](https://github.com/aquova/chip8-book) to make it.
 
 chip8 games: https://www.zophar.net/pdroms/chip8/chip-8-games-pack.html
+
+## Running
+
+### SDL
+
+```sh
+$ just run roms/MAZE
+```
+
+### Wasm
+
+make sure you have wasm-pack and miniserve installed.
+
+```sh
+$ just run-wasm
+```
