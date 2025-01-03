@@ -1,6 +1,7 @@
 # Corroded Chip 8
 
 This has some more work TODO:
+- [ ] Add a byte/op code language parser
 - [ ] The screen renders poorly which i would like to fix.
 - [ ] Moving from SDL to macroquad for a (more) pure rust implmentatation.
 - [ ] Generate Sound
